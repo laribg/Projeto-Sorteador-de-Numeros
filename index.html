@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Random</title>
+  </head>
+  <body>
+    <img src="./assets/dev-sorteio.png" alt="imagem-sorteador" />
+
+    <h2>Sortear um número</h2>
+
+    <div>
+      <input placeholder="entre" class="input-min" type="number" />
+      <input placeholder="e" class="input-max" type="number" />
+    </div>
+
+    <button onclick="generateNumberInclusive()">Sortear</button>
+
+    <section class="drawnNumber">
+      <p>Número sorteado:</p>
+      <span id="number"></span>
+    </section>
+  </body>
+
+  <script src="./script.js"></script>
+</html>

@@ -2,7 +2,7 @@
 
 Segue abaixo Projeto prático do módulo de JavaScript da Trilha FullStack-PRO do DevClub! Nele, foi proposto a criação de um Sorteador de números aleatórios utilizando a propriedade Math.random.
 
-[Clique aqui](https:) para acessar o resultado final do projeto proposto.
+[Clique aqui](https://laribg.github.io/Projeto-Sorteador-de-Numeros/) para acessar o resultado final do projeto proposto.
 
 ![image](./assets/photoSorteio.png)
 
